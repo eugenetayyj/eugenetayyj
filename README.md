@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/eugenetayyj/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/eugenetayyj/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+[![Eugenetayyj's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenetayyj)](https://github.com/eugenetayyj/github-readme-stats)
 <!--
 **eugenetayyj/eugenetayyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
